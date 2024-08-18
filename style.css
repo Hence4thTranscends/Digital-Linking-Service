@@ -38,7 +38,7 @@ body {
 
 .btn-theme {
 	position: absolute;
-	right: 0;
+	left: 0;
 	margin: 1.5em;
 	cursor: pointer;
 }
